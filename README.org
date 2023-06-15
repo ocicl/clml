@@ -5,5 +5,5 @@ Common Lisp Machine Learning Library
 |---------+----------------------------------------------------------------------------------------------------------------|
 | source  | git:https://github.com/mmaul/clml.git                                                                          |
 | commit  | c34cc7a                                                                                                        |
-| systems | fork-future future clml.association-rule clml.blas f2cl-lib clml.classifiers clml clml.clustering clml.data clml.data.r-datasets clml.decision-tree clml.docs clml.graph clml.hjs clml.lapack clml.nearest-search clml.nonparametric clml.numeric clml.pca clml.som clml.statistics clml.statistics.rand clml.svm clml.text clml.time-series clml.utility |
+| systems | fork-future future clml.association-rule clml.blas f2cl-lib clml.classifiers clml clml.clustering clml.data clml.data.r-datasets clml.decision-tree clml.graph clml.hjs clml.lapack clml.nearest-search clml.nonparametric clml.numeric clml.pca clml.som clml.statistics clml.statistics.rand clml.svm clml.text clml.time-series clml.utility           |
 |---------+----------------------------------------------------------------------------------------------------------------|
