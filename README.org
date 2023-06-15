@@ -1,0 +1,9 @@
+* clml
+
+Common Lisp Machine Learning Library
+
+|---------+---------------------------------------|
+| source  | git:https://github.com/mmaul/clml.git |
+| commit  | c34cc7a                               |
+| systems | clml                                  |
+|---------+---------------------------------------|
